@@ -4,8 +4,10 @@
   <table border="0" cellspacing="0" cellpadding="10" style="border-radius: 15px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
     <tr>
       <td align="center" width="50%" style="background-color: #282a36; border-radius: 15px;">
+      <p>
         <img src="https://avatars.githubusercontent.com/u/147895238?v=4" width="100" height="100" style="border-radius: 50%;" />
-       <img src="https://readme-typing-svg.demolab.com/?lines=👋+Hi+there!+I'm+tkzzzzzz6." />
+      <H3>tkzzzzzz6 </H3>
+        <p>
         <p>
           <a href="mailto:tk2535550189@gmail.com">
             <img src="https://img.shields.io/badge/Email-tk2535550189%40gmail.com-blue?style=flat-square&logo=gmail"/>
@@ -16,11 +18,11 @@
           <img src="https://img.shields.io/badge/Location-Ya'an-success?style=flat-square&logo=google-maps"/>
         </p>
         <p>
-          <img src="https://img.shields.io/github/followers/tkzzzzzz6?color=brightgreen&style=flat-square&logo=github&label=关注我" />
+          <img src="https://img.shields.io/github/followers/tkzzzzzz6?color=brightgreen&style=flat-square&logo=github&label=Follow me" />
           <img src="https://img.shields.io/badge/Python-green?style=flat-square&logo=python" />
         </p>
         <p>
-          <img src="https://img.shields.io/badge/WeChat-f784958034-brightgreen?style=flat-square&logo=wechat" />
+          <img src="https://img.shields.io/badge/WeChat-ttk_1012-brightgreen?style=flat-square&logo=wechat" />
         </p>
       </td>
       <td width="50%" align="center" style="background-color: #282a36; border-radius: 15px;">
