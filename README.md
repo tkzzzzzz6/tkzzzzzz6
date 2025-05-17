@@ -36,37 +36,6 @@
 
 ![Taot's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tkzzzzzz6&theme=xcode)
 
-<div align="center" style="margin-top: 20px;">
-  <table width="100%" border="0" style="border-radius: 15px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <tr style="background-color: #282a36;">
-      <td align="center" width="33%" style="padding: 15px;">
-        <a href="https://ke-tan.asia/" style="text-decoration: none; color: #f8f8f2;">
-          <div>
-            <img src="https://img.shields.io/badge/📝-Blog-ff69b4?style=for-the-badge" alt="Blog" /><br>
-            <span>我的博客</span>
-          </div>
-        </a>
-      </td>
-      <td align="center" width="33%" style="padding: 15px;">
-        <a href="https://tk-yunpan.asia/" style="text-decoration: none; color: #f8f8f2;">
-          <div>
-            <img src="https://img.shields.io/badge/📁-Alist-brightgreen?style=for-the-badge" alt="Alist" /><br>
-            <span>我的Alist</span>
-          </div>
-        </a>
-      </td>
-      <td align="center" width="33%" style="padding: 15px;">
-        <a href="https://github.com/tkzzzzzz6/tkzzzzzz6" style="text-decoration: none; color: #f8f8f2;">
-          <div>
-            <img src="https://img.shields.io/badge/👨‍💻-Source-blue?style=for-the-badge" alt="Source" /><br>
-            <span>查看源代码</span>
-          </div>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <div align="center">
- <img src="https://count.getloli.com/@tkzzzzzz6?name=tkzzzzzz6&theme=rule34&padding=8&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt=":name">
+ <img src="https://count.getloli.com/@tkzzzzzz6-profile?name=tkzzzzzz6-profile&theme=rule34&padding=8&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt=":name">
 </div>
