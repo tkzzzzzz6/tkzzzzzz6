@@ -33,10 +33,10 @@
 </div>
 
 <div align="center" style="margin-top: 15px;">
-  <a href="https://github.com/tkzzzzzz6/tkzzzzzz6" style="text-decoration: none; display: inline-block; margin: 0 10px;">
+  <a href="https://ke-tan.asia/" style="text-decoration: none; display: inline-block; margin: 0 10px;">
     <img src="https://img.shields.io/badge/📝_我的博客-ff69b4?style=for-the-badge" alt="Blog" />
   </a>
-  <a href="https://github.com/tkzzzzzz6/tkzzzzzz6" style="text-decoration: none; display: inline-block; margin: 0 10px;">
+  <a href="https://tk-yunpan.asia/" style="text-decoration: none; display: inline-block; margin: 0 10px;">
     <img src="https://img.shields.io/badge/📁_我的Alist-brightgreen?style=for-the-badge" alt="Alist" />
   </a>
   <a href="https://github.com/tkzzzzzz6/tkzzzzzz6" style="text-decoration: none; display: inline-block; margin: 0 10px;">
