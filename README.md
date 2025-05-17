@@ -16,12 +16,6 @@
         <p>
           <img src="https://img.shields.io/badge/Birthday-2004--12--09-ff69b4?style=flat-square&logo=birthday"/>
           <img src="https://img.shields.io/badge/Location-Ya'an-success?style=flat-square&logo=google-maps"/>
-        </p>
-        <p>
-          <img src="https://img.shields.io/github/followers/tkzzzzzz6?color=brightgreen&style=flat-square&logo=github&label=Follow me" />
-          <img src="https://img.shields.io/badge/Python-green?style=flat-square&logo=python" />
-        </p>
-        <p>
           <img src="https://img.shields.io/badge/WeChat-ttk__1012-brightgreen?style=flat-square&logo=wechat" />
         </p>
       </td>
