@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/📁_我的Alist-brightgreen?style=for-the-badge" alt="Alist" />
   </a>
   <a href="https://github.com/tkzzzzzz6/tkzzzzzz6" style="text-decoration: none; display: inline-block; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/👨‍💻_查看源代码-blue?style=for-the-badge" alt="Source" />
+    <img src="https://img.shields.io/badge/👨‍💻_查看源码-blue?style=for-the-badge" alt="Source" />
   </a>
 </div>
 
