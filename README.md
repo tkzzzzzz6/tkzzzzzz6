@@ -22,9 +22,9 @@
       <td width="50%" align="center" style="background-color: #282a36; border-radius: 15px;">
         <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=tkzzzzzz6&show_icons=true&theme=dracula&border_radius=15&hide_border=true" width="350"></a>
         <br><br>
-        <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkzzzzzz6&border_radius=1&theme=dracula&layout=compact&hide=jupyter notebook&hide_border=true&langs_count=10" width="250"></a>
+        <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkzzzzzz6&border_radius=1&theme=dracula&layout=compact&hide=scss,less,ASP.NET,pug,,Batchfile,css,html&hide_border=true&langs_count=10" width="250"></a>
       </td>
-      <!-- ,scss,less,BibTeX Style,pug,ASP.NET,Vim Script,Batchfile,css,html&hide_border=true -->
+      <!-- ,scss,less,BibTeX Style,Vim Script&hide_border=true -->
     </tr>
   </table>
 </div>
