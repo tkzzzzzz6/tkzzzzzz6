@@ -49,4 +49,4 @@
   <img src="https://count.getloli.com/@tkzzzzzz6-profile?theme=rule34&padding=8&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="访问计数" />
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=js,java,git,cpp,ubuntu,anaconda,docker,git,linux,matlab,notion,obsidian,py,pytorch,raspberrypi,unity,vscode,cursor,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,java,pytorch,anaconda,git,docker,raspberrypi,unity,vscode,ubuntu,windows)](https://skillicons.dev)
