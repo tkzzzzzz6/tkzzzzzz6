@@ -29,6 +29,7 @@
           <img src='https://codestats-readme.wegfan.cn/history-graph/tkzzzzzz6?width=350&height=200&timezone=08:00&max_languages=9&language_colors=["bd93f9","ff79c6","8be9fd","50fa7b","f1fa8c","ffb86c","ff5555","6272a4","44475a","282a36"]&bg_color=282a36&text_color=f8f8f2&grid_color=44475a' alt="tkzzzzzz6's Code::Stats history graph" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
         </a>
       </td>
+      <!-- ,scss,less,BibTeX Style,Vim Script&hide_border=true -->
     </tr>
   </table>
 </div>
@@ -41,8 +42,14 @@
   <a href="https://ke-tan.asia/" style="text-decoration: none; display: inline-block; margin: 0 10px;">
     <img src="https://img.shields.io/badge/📝_我的博客-ff69b4?style=for-the-badge" alt="Blog" />
   </a>
+<<<<<<< HEAD
+=======
+  <!-- <a href="https://tk-yunpan.asia/" style="text-decoration: none; display: inline-block; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/📁_我的Alist-brightgreen?style=for-the-badge" alt="Alist" />
+  </a> -->
+>>>>>>> d1edf3b20a12868059e76e43ee55181f983242b8
   <a href="https://github.com/tkzzzzzz6/tkzzzzzz6" style="text-decoration: none; display: inline-block; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/👨‍💻_查看源代码-blue?style=for-the-badge" alt="Source" />
+    <img src="https://img.shields.io/badge/👨‍💻_查看源码-blue?style=for-the-badge" alt="Source" />
   </a>
 </div>
 
