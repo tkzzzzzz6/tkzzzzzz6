@@ -1,7 +1,7 @@
 ### Welcome(欢迎访问)! 👋
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="15" style="border-radius: 18px; overflow: hidden; box-shadow: 0 6px 12px rgba(0,0,0,0.15);">
+  <table border="0" cellspacing="0" cellpadding="15" style="border-radius: 18px; overflow: hidden; box-shadow: 0 6px 12px rgba(0,0,0,0.15); background-color: #282a36;">
     <tr>
       <!-- 左侧：个人信息和编码统计 -->
       <td align="center" width="50%" style="background-color: #282a36; border-radius: 15px; padding: 15px; vertical-align: top;">
