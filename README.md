@@ -23,6 +23,11 @@
         <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=tkzzzzzz6&show_icons=true&theme=dracula&border_radius=15&hide_border=true" width="350"></a>
         <br><br>
         <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkzzzzzz6&border_radius=15&theme=dracula&layout=compact&hide_border=true" width="350"></a>
+        <br><br>
+        <!-- 编码时长统计表 - Dracula暗色风格 -->
+        <a href="https://codestats.net/users/tkzzzzzz6" target="_blank">
+          <img src='https://codestats-readme.wegfan.cn/history-graph/tkzzzzzz6?width=350&height=200&timezone=08:00&max_languages=9&language_colors=["bd93f9","ff79c6","8be9fd","50fa7b","f1fa8c","ffb86c","ff5555","6272a4","44475a","282a36"]&bg_color=282a36&text_color=f8f8f2&grid_color=44475a' alt="tkzzzzzz6's Code::Stats history graph" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+        </a>
       </td>
     </tr>
   </table>
@@ -36,9 +41,6 @@
   <a href="https://ke-tan.asia/" style="text-decoration: none; display: inline-block; margin: 0 10px;">
     <img src="https://img.shields.io/badge/📝_我的博客-ff69b4?style=for-the-badge" alt="Blog" />
   </a>
-  <a href="https://tk-yunpan.asia/" style="text-decoration: none; display: inline-block; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/📁_我的Alist-brightgreen?style=for-the-badge" alt="Alist" />
-  </a>
   <a href="https://github.com/tkzzzzzz6/tkzzzzzz6" style="text-decoration: none; display: inline-block; margin: 0 10px;">
     <img src="https://img.shields.io/badge/👨‍💻_查看源代码-blue?style=for-the-badge" alt="Source" />
   </a>
@@ -47,3 +49,12 @@
 <div align="center" style="margin-top: 15px;">
   <img src="https://count.getloli.com/@tkzzzzzz6-profile?theme=rule34&padding=8&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="访问计数" />
 </div>
+
+
+<!-- 黑色仓库引导 -->
+
+<!-- <p width="100%" align="center">
+  <a align="left" href="https://github.com/tkzzzzzz6/Algorithm_beginner_learning_notes" title="Algorithm_beginner_learning_notes"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=tkzzzzzz6&repo=Algorithm_beginner_learning_notes&theme=gotham">
+  
+</a><a align="right" href="https://github.com/tkzzzzzz6/downing_detect" title="downing_detect"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=tkzzzzzz6&repo=downing_detect&theme=gotham"></a>
+</p> -->
