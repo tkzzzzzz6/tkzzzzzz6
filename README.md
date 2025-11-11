@@ -29,12 +29,12 @@
       <td width="50%" align="center" style="background-color: #282a36; border-radius: 15px; padding: 20px; vertical-align: top;">
         <div style="margin-top: 40px; margin-bottom: 10px;">
           <a href="#" style="text-decoration: none; display: inline-block;">
-            <img src="https://github-readme-stats.vercel.app/api?username=tkzzzzzz6&show_icons=true&theme=dracula&border_radius=15&hide_border=true" width="100%" style="max-width: 420px;" alt="GitHub Stats" />
+            <img src="https://github-readme-stats.vercel.app/api?username=tkzzzzzz6&show_icons=true&theme=dracula&border_radius=15&hide_border=true" width="100%" style="max-width: 300px;" alt="GitHub Stats" />
           </a>
         </div>
         <div>
           <a href="#" style="text-decoration: none; display: inline-block;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkzzzzzz6&border_radius=15&theme=dracula&layout=compact&hide_border=true" width="100%" style="max-width: 420px;" alt="Top Languages" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkzzzzzz6&border_radius=1&theme=dracula&layout=compact&hide_border=true&langs_count=10" width="100%" style="max-width: 300px;" alt="Top Languages" />
           </a>
         </div>
       </td>
