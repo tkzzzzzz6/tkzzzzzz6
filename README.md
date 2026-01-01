@@ -1,10 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=tkzzzzzz6&fontColor=ffffff&fontSize=38&animation=twinkling" alt="header" />
-</div>
-
-<div align="center">
-  <h3>Welcome</h3>
-  <p>Personal profile, notes, and experiments.</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Welcome&fontColor=ffffff&fontSize=38&animation=twinkling" alt="header" />
 </div>
 
 <div align="center">
@@ -22,9 +17,9 @@
 
 ## About
 
+- A student majoring in computer science.
 - Focus: learning, building, and sharing.
-- Interests: web, automation, and clean UI.
-- Contact: `tk2535550189@gmail.com`.
+<!-- - Interests: AI, GameDev, and clean UI. -->
 
 ## Activity
 
