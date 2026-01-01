@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Welcome ( ´ ▽ ` ) ⸝&fontColor=ffffff&fontSize=38&animation=twinkling" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Welcome%20(%20%C2%B4%20%E2%96%BD%20%60%20)%20%E2%B8%9D&fontColor=ffffff&fontSize=38&animation=twinkling" alt="header" />
 </div>
 
 <div align="center">
@@ -69,3 +69,5 @@
 <!-- codefoces -->
 <!-- https://codeforces-readme-stats.vercel.app/ -->
 <!-- [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=ttkqwe&theme=yeblu&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/ttkqwe) -->
+
+
