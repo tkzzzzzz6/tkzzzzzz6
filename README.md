@@ -54,7 +54,7 @@
 
 <div align="center">
   <a href="https://codestats.net/users/tkzzzzzz6" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src='https://codestats-readme.wegfan.cn/history-graph/tkzzzzzz6?width=560&height=300&timezone=08:00&days=365&max_languages=9&language_colors=%5B%228ecae6%22,%22219ebc%22,%2200b4d8%22,%2248cae4%22,%2290e0ef%22,%22ffd166%22,%22f4d35e%22,%22a3e635%22,%2234d399%22,%22fb7185%22%5D&bg_color=0f2027&text_color=e6f1f5&grid_color=203a43' alt="Code::Stats History Graph" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); width: 100%; max-width: 360px;" />
+    <img src='https://codestats-readme.wegfan.cn/history-graph/tkzzzzzz6?width=560&height=240&timezone=08:00&days=365&max_languages=9&language_colors=%5B%228ecae6%22,%22219ebc%22,%2200b4d8%22,%2248cae4%22,%2290e0ef%22,%22ffd166%22,%22f4d35e%22,%22a3e635%22,%2234d399%22,%22fb7185%22%5D&bg_color=0f2027&text_color=e6f1f5&grid_color=203a43' alt="Code::Stats History Graph" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); width: 100%; max-width: 360px;" />
   </a>
 </div>
 
